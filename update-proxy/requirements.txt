@@ -1,0 +1,7 @@
+--extra-index-url https://pypi.everstring.com/simple
+esconfig
+python-consul
+
+mechanize
+ec2
+boto3
